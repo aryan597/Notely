@@ -65,7 +65,7 @@
                 android:maxLines="1"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
-                android:textColor="@color/white_color"
+                android:textColor="@color/black"
                 android:textColorHint="#A6A6A6"
                 android:textSize="16sp"
                 android:textStyle="normal"
